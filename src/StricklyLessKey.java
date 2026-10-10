@@ -15,13 +15,13 @@ public class StricklyLessKey {
 	     System.out.println(map);
 	     
 	     System.out.println("Checking the entry for 10:");
-	     System.out.println("Value is:"+map.);
+	     System.out.println("Value is:"+map.lowerEntry(10));
 	     
-	     System.out.println("Checking the entry for 30:");
-	     System.out.println("Value is:"+map);
+	     System.out.println("Checking the entry for 20:");
+	     System.out.println("Value is:"+map.lowerEntry(20));
 	     
 	     System.out.println("Checking the entry for 70:");
-	     System.out.println("Value is:"+map);
+	     System.out.println("Value is:"+map.lowerEntry(70));
 
 	}
 
